@@ -114,4 +114,5 @@ foreach ($file in $criticalPaths) {
 # Optionally compress output
 $zipFile = "$OutputDir.zip"
 Compress-Archive -Path $OutputDir -DestinationPath $zipFile -Force
-Write-Host "✅ Forensic collection complete. Report saved to: $zipFile"
+Write-Host "`u2705 Forensic collection complete. Report saved to: $zipFile"
+
