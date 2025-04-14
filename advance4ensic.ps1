@@ -1,7 +1,6 @@
 # ================================================
 # Advanced Windows Forensic Collection Script
 # Author: ASTRA 3.0
-# Version: Clean (No special characters)
 # Purpose: Gathers forensic artifacts for analysis
 # ================================================
 
