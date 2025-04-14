@@ -10,4 +10,4 @@ For Executing Advance Forensic Script run the following command as
 
 Set-ExecutionPolicy Bypass -Scope Process -Force
 
-.\Advanced4ensic.ps1
+.\advanced4ensic.ps1
