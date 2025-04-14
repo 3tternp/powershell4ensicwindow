@@ -4,4 +4,4 @@ Right-click PowerShell > Run as Administrator.
 
 Execute the script:
 
-.\basic4ensicCollector.ps1
+.\basic4ensicollector.ps1
